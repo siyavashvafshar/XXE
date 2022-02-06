@@ -26,7 +26,7 @@ Then simply visit [localhost:10004][App] ! 😆
 </contact>
 ```
 
-And run:
+And  run:
 
     curl -d @payload.xml localhost:10004/contact.php ; echo
 
