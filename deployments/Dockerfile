@@ -1,4 +1,4 @@
-FROM php:apache
+FROM php:8.1.2-zts
 
 COPY deployments/apache.conf /etc/apache2/sites-available/000-default.conf
 COPY deployments/php.ini /usr/local/etc/php/
