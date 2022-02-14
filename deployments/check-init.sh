@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# This script verifies if SecDevLabs app has properly start-up.
 #
 
 COLOR_RED='\033[31m'
@@ -9,7 +8,7 @@ COLOR_GREEN='\033[32m'
 COLOR_BLUE='\033[1;34m'
 COLOR_RESET='\033[0m'
 
-PROJECT='A4 - ViniJR Blog'
+PROJECT='php xxe lfi'
 PORT=10004
 TRIES=480
 LOADING=0
