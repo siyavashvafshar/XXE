@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    container_name: vinijrblog
+    container_name: mhnxxephp
     build:
       context: ../
       dockerfile: deployments/Dockerfile
