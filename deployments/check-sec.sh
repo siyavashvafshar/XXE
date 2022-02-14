@@ -3,7 +3,7 @@
 # This script verifies if app is vulnerable to the attack narrative
 #
 
-echo "secDevLabs: Exploiting your app locally!"
+echo "XXE-PHP: Exploiting your app locally!"
 echo "XXE to retrieve sensitive information"
 
 echo
