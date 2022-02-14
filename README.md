@@ -12,14 +12,12 @@ The main goal of this app is to discuss how **XXE** vulnerabilities can be explo
 
 ## SAST Tools : 
 
-Find With SAST Tools : SonarQube Develpoer
+Find With SAST Tools : SonarQube Develpoer Plan
 
 ![Getting Started](1.png)
 
 
-Find With My yml template : 
-
-          pattern-regex: "{{.*?\\|\\s*safe(\\s*}})?"
+Find With SAST Tools : Snyk Team Plans
 
 
 ![Getting Started](2.png)
@@ -45,9 +43,6 @@ Then simply visit [localhost:10004][App] ! 😆
 </contact>
 ```
 
-And  run:
-
-    curl -d @payload.xml localhost:10004/contact.php ; echo
     
 Burp Request : 
 
