@@ -36,9 +36,9 @@ Then simply visit [localhost:10004][App] ! 😆
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
 <contact>
-    <name>RAFAEL</name>
-    <email>RAFAEL@EXAMPLE.com</email>
-    <subject>YOU ROCK</subject>
+    <name>TEST</name>
+    <email>TEST@EXAMPLE.com</email>
+    <subject>We TEST</subject>
     <message>I LOVE WATCHING YOUR SKILLS, MAN</message>
 </contact>
 ```
