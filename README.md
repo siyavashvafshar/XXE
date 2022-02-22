@@ -75,13 +75,19 @@ Burp Request :
 
  https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html
  
-## Contributing : 
+## Twitter & Facebook Contributor :
+   
+ https://www.linkedin.com/in/mohammad-hussein-namadi-775baa131/
  
-We encourage you to contribute to Project
+ https://twitter.com/siavashvafshar
+    
+## Fix 
 
-## Twitter Contributor :
+We encourage you to contribute to Project and Fix Codes
 
-   https://twitter.com/N3T_hunt3r
+If you want to pull request please follow this :
+
+CONTRIBUTION.md
    
 ## Top Report 
 1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 304 upvotes, $4000
